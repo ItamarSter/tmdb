@@ -1,0 +1,5 @@
+/build
+*.json
+release
+build
+proguard-rules.pro
