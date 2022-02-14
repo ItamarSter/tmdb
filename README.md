@@ -1,6 +1,7 @@
 # TMDB - The Movie Database
 This is my first android app!<br/>
 This project is an Android app which displays data from <a href="https://www.themoviedb.org">The Movie Database</a> API.
+<a href="https://play.google.com/store/apps/details?id=itamar.stern.tmdb3">Download the app from Google play</a>
 ## Description
 The app displays data of 10000 movies from The Movie Database API.<br/>
 You can display the movies sorted by popularity, title or release date.<br/>

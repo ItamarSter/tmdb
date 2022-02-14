@@ -32,7 +32,7 @@ class MoviesAdapter(
             )
         )
 
-    @RequiresApi(Build.VERSION_CODES.O)
+
     override fun onBindViewHolder(holder: VH, position: Int) {
         holder.binding.apply {
             textView1.text = movies[position].title
